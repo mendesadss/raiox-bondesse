@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Easy Front Bra, Bondesse</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#FBF8F4; --bg2:#F2EBE2; --primary:#8C6A4F; --accent:#C9A227;
+    --ink:#2E2A26; --good:#5E7B5A; --line:#E2D8CB; --muted:#6F675F;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,sans-serif;padding-bottom:78px}
+  h1,h2,h3{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;margin:0}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+  .ann{background:var(--primary);color:#fff;text-align:center;padding:9px 16px;font-size:14px}
+  .nav{display:flex;align-items:center;justify-content:space-between;padding:18px 0;border-bottom:1px solid var(--line)}
+  .logo{font-family:'Cormorant Garamond',serif;font-size:27px;letter-spacing:.06em}
+  .nav ul{display:flex;gap:22px;list-style:none;margin:0;padding:0;font-size:15px}
+  .nav a{color:var(--ink);text-decoration:none}
+  .crumb{font-size:13px;color:var(--muted);padding:16px 0}
+  .ph-img{background:var(--bg2);border:1px dashed var(--line);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font-size:11px;letter-spacing:.05em;text-transform:uppercase;padding:12px}
+  .pdp{display:grid;grid-template-columns:1.05fr 1fr;gap:44px;padding-bottom:44px}
+  .gal .main{height:470px;margin-bottom:12px}
+  .gal .thumbs{display:grid;grid-template-columns:repeat(5,1fr);gap:9px}
+  .gal .thumbs .ph-img{height:78px;font-size:9px}
+  .stars{color:var(--accent);letter-spacing:2px;font-size:15px}
+  .stars small{color:var(--muted);letter-spacing:0;margin-left:8px;font-size:13px}
+  h1{font-size:36px;line-height:1.18;margin:10px 0 6px}
+  .lede{color:var(--muted);font-size:17px;margin:0 0 18px}
+  .price{font-size:29px;font-weight:600}
+  .price s{font-size:19px;color:var(--muted);font-weight:400;margin-left:10px}
+  .price .tag{display:inline-block;background:var(--bg2);border:1px solid var(--line);color:var(--primary);font-size:12px;padding:3px 10px;border-radius:999px;margin-left:10px;vertical-align:middle;font-weight:600}
+  .opt{margin-top:22px}
+  .opt .lbl{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+  .sw{display:flex;gap:9px;flex-wrap:wrap}
+  .sw span{width:38px;height:38px;border-radius:50%;border:1px solid var(--line);display:inline-block}
+  .sw .on{outline:2px solid var(--primary);outline-offset:2px}
+  .sizes{display:flex;gap:8px;flex-wrap:wrap}
+  .sizes b{border:1px solid var(--line);border-radius:8px;padding:9px 16px;font-weight:500;background:#fff}
+  .sizes .on{border-color:var(--primary);background:var(--bg2);font-weight:600}
+  .sizelink{display:inline-block;margin-top:10px;font-size:14px;color:var(--primary)}
+  .bump{margin-top:22px;border:1px solid var(--line);background:#fff;border-radius:12px;padding:14px;display:grid;grid-template-columns:auto 58px 1fr auto;gap:12px;align-items:center}
+  .bump .ph-img{height:58px;width:58px;padding:0;font-size:9px}
+  .bump b{font-size:15px}
+  .bump small{color:var(--muted);display:block;font-size:13px}
+  .btn{display:block;width:100%;text-align:center;background:var(--primary);color:#fff;padding:16px;border-radius:999px;text-decoration:none;font-weight:600;font-size:17px;margin-top:20px;border:0;cursor:pointer}
+  .rea{margin-top:16px;display:grid;gap:9px;font-size:15px}
+  .rea div{display:flex;gap:9px;align-items:flex-start}
+  .rea .ck{color:var(--good);font-weight:700}
+  .acc{margin-top:22px;border-top:1px solid var(--line)}
+  .acc details{border-bottom:1px solid var(--line)}
+  .acc summary{padding:15px 0;cursor:pointer;font-weight:600;font-size:15px}
+  .acc p{margin:0 0 15px;color:var(--muted);font-size:15px}
+  .strip{background:var(--bg2);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:38px 0;margin-bottom:40px}
+  .strip .in{display:grid;grid-template-columns:1fr 1fr;gap:38px;align-items:center}
+  .strip .ph-img{height:240px}
+  .strip h2{font-size:29px;margin-bottom:10px}
+  .revs h2{font-size:29px;text-align:center;margin-bottom:22px}
+  .revlist{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;padding-bottom:46px}
+  .rev{background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px}
+  .rev p{font-size:15px;margin:9px 0}
+  .rev .who{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+  .rev .who .ph-img{width:34px;height:34px;border-radius:50%;padding:0;font-size:8px}
+  .sticky{background:#fff;border-top:1px solid var(--line);padding:11px 16px;display:none;align-items:center;justify-content:space-between;gap:12px}
+  .sticky .btn{margin:0;width:auto;padding:13px 26px;font-size:15px}
+  .foot{background:var(--ink);color:#EDE7DF;padding:34px 0 22px;font-size:14px}
+  .foot a{color:#EDE7DF;text-decoration:none;margin-right:16px;opacity:.85}
+  @media(max-width:760px){
+    .pdp,.strip .in{grid-template-columns:1fr;gap:24px}
+    .nav ul{display:none}
+    h1{font-size:28px}
+    .gal .main{height:340px}
+    .revlist{grid-template-columns:1fr}
+    .sticky{display:flex}
+  }
+</style>
+</head>
+<body>
+
+<!-- BLOCO: barra de anúncio -->
+<div class="ann">Free shipping over $49 &nbsp;·&nbsp; Free size exchange, keep the one that fits</div>
+
+<!-- BLOCO: cabeçalho e menu -->
+<div class="wrap">
+  <nav class="nav">
+    <div class="logo">BONDESSE</div>
+    <ul><li><a href="#">Wire-Free Comfort</a></li><li><a href="#">Front Closure</a></li><li><a href="#">Size Guide</a></li><li><a href="#">Our Story</a></li></ul>
+    <div>Cart (0)</div>
+  </nav>
+  <div class="crumb">Home / Front Closure / The Easy Front Bra</div>
+</div>
+
+<div class="wrap">
+  <section class="pdp">
+
+    <!-- BLOCO: galeria que educa (1 a 8) -->
+    <div class="gal">
+      <div class="ph-img main">IMAGEM 1 · packshot frontal do sutiã, fundo claro, peça inteira visível</div>
+      <div class="thumbs">
+        <div class="ph-img">2 · vestido em modelo 55+</div>
+        <div class="ph-img">3 · detalhe do fecho frontal</div>
+        <div class="ph-img">4 · alça larga no ombro</div>
+        <div class="ph-img">5 · guia de medida</div>
+        <div class="ph-img">6 · as 3 cores lado a lado</div>
+      </div>
+    </div>
+
+    <!-- BLOCO: compra -->
+    <div>
+      <div class="stars">★★★★★ <small>4.8 · 312 reviews</small></div>
+      <h1>The Easy Front Bra</h1>
+      <p class="lede">Closes in the front. Stays comfortable all day.</p>
+
+      <!-- BLOCO: preço com âncora plausível, SEM contador regressivo -->
+      <div class="price">$34.90 <s>$49.90</s><span class="tag">Save $15</span></div>
+
+      <div class="opt">
+        <div class="lbl">Colour</div>
+        <div class="sw"><span class="on" style="background:#E8D9C6"></span><span style="background:#2E2A26"></span><span style="background:#DDBFC0"></span></div>
+      </div>
+
+      <div class="opt">
+        <div class="lbl">Size</div>
+        <div class="sizes"><b>S</b><b class="on">M</b><b>L</b><b>XL</b><b>2XL</b><b>3XL</b></div>
+        <a class="sizelink" href="#">Not sure? Measure at home in two minutes &rsaquo;</a>
+      </div>
+
+      <!-- BLOCO NOVO: order bump -->
+      <div class="bump">
+        <input type="checkbox" checked aria-label="Add extenders">
+        <div class="ph-img">IMG</div>
+        <div><b>Add Comfort Band Extenders</b><small>Set of 3. A little more room on the days you need it.</small></div>
+        <div><b>+$9.90</b></div>
+      </div>
+
+      <button class="btn">Add to cart</button>
+
+      <!-- BLOCO: reasons to believe -->
+      <div class="rea">
+        <div><span class="ck">✓</span><span><b>Free size exchange within 30 days.</b> We ship the new one before you send anything back.</span></div>
+        <div><span class="ck">✓</span><span>Free shipping over $49. Delivered in 7 to 12 business days.</span></div>
+        <div><span class="ck">✓</span><span>No underwire, wide straps, breathable fabric.</span></div>
+      </div>
+
+      <!-- BLOCO: detalhes -->
+      <div class="acc">
+        <details open><summary>Why it is different</summary><p>Most bras are designed for a 25-year-old body. After 50 the cup changes, the skin gets more sensitive and heat matters more. This one closes at the front, has no wire to dig in, and holds with a soft moulded cup instead of pressure.</p></details>
+        <details><summary>Fabric and care</summary><p>Soft brushed microfibre with a breathable mesh back. Machine wash cold, hang to dry.</p></details>
+        <details><summary>Shipping and returns</summary><p>Free shipping over $49. Free size exchange within 30 days, and a full refund on unworn items with tags.</p></details>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- BLOCO NOVO: guia de medida na própria página -->
+<section class="strip">
+  <div class="wrap in">
+    <div>
+      <h2>The size question, answered before you buy</h2>
+      <p>Most women who stopped buying bras online stopped because nothing ever fit. Measure at home with our guide, and if it is still not right, exchange it free. You keep the one that fits.</p>
+    </div>
+    <div class="ph-img">IMAGEM · ilustração de como medir busto e faixa, traço limpo</div>
+  </div>
+</section>
+
+<!-- BLOCO: reviews (9 a 11) -->
+<div class="wrap revs">
+  <h2>What women tell us</h2>
+  <div class="revlist">
+    <div class="rev"><div class="stars">★★★★★</div><p>“I had given up and was wearing the same stretched-out bra every day. This is the first one in years I put on without thinking about it.”</p><div class="who"><div class="ph-img">9</div><span>Verified buyer</span></div></div>
+    <div class="rev"><div class="stars">★★★★★</div><p>“My shoulder does not let me reach behind anymore. The front closing changed my mornings.”</p><div class="who"><div class="ph-img">10</div><span>Verified buyer</span></div></div>
+    <div class="rev"><div class="stars">★★★★☆</div><p>“Ordered the wrong size and the exchange was genuinely free. The new one arrived before I posted the first back.”</p><div class="who"><div class="ph-img">11</div><span>Verified buyer</span></div></div>
+  </div>
+</div>
+
+<!-- BLOCO: rodapé -->
+<footer class="foot">
+  <div class="wrap">
+    <a href="#">Shipping</a><a href="#">Returns and Free Size Exchange</a><a href="#">Contact Us</a><a href="#">Privacy Policy</a><a href="#">Terms of Service</a>
+    <p style="opacity:.6;margin-top:14px">© 2026 Bondesse. All rights reserved.</p>
+  </div>
+</footer>
+
+<!-- BLOCO NOVO: add to cart fixo no celular (na loja real esta barra acompanha a rolagem; aqui fica em fluxo porque o mockup roda dentro de um quadro) -->
+<div class="sticky"><div><b>$34.90</b> <s style="color:var(--muted)">$49.90</s></div><a class="btn" href="#">Add to cart</a></div>
+
+</body>
+</html>

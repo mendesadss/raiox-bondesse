@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bondesse, home</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#FBF8F4; --bg2:#F2EBE2; --primary:#8C6A4F; --accent:#C9A227;
+    --ink:#2E2A26; --good:#5E7B5A; --line:#E2D8CB; --muted:#6F675F;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,sans-serif}
+  h1,h2,h3{font-family:'Cormorant Garamond',Georgia,serif;font-weight:600;margin:0}
+  .ph{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+  .ann{background:var(--primary);color:#fff;text-align:center;padding:9px 16px;font-size:14px}
+  .nav{display:flex;align-items:center;justify-content:space-between;padding:18px 0;border-bottom:1px solid var(--line)}
+  .logo{font-family:'Cormorant Garamond',serif;font-size:27px;letter-spacing:.06em}
+  .nav ul{display:flex;gap:22px;list-style:none;margin:0;padding:0;font-size:15px}
+  .nav a{color:var(--ink);text-decoration:none}
+  .ph-img{background:var(--bg2);border:1px dashed var(--line);border-radius:10px;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--muted);font-size:12px;letter-spacing:.06em;text-transform:uppercase;padding:14px}
+  .hero{display:grid;grid-template-columns:1fr 1fr;gap:38px;align-items:center;padding:54px 0}
+  .hero h1{font-size:46px;line-height:1.14}
+  .hero .sub{color:var(--muted);font-size:18px;margin:16px 0 26px}
+  .btn{display:inline-block;background:var(--primary);color:#fff;padding:14px 30px;border-radius:999px;text-decoration:none;font-weight:600}
+  .btn.ghost{background:transparent;color:var(--primary);border:1px solid var(--primary);margin-left:10px}
+  .hero .ph-img{height:400px}
+  .founder{background:var(--bg2);padding:44px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .founder .in{display:grid;grid-template-columns:200px 1fr;gap:30px;align-items:center}
+  .founder .ph-img{height:200px;border-radius:50%}
+  .founder blockquote{margin:0;font-family:'Cormorant Garamond',serif;font-size:25px;line-height:1.42}
+  .founder cite{display:block;margin-top:14px;font-family:Inter,sans-serif;font-size:14px;font-style:normal;color:var(--muted)}
+  .mech{display:grid;grid-template-columns:repeat(3,1fr);gap:26px;padding:54px 0;text-align:center}
+  .mech .ic{width:52px;height:52px;border-radius:50%;background:var(--bg2);border:1px solid var(--line);margin:0 auto 14px}
+  .mech h3{font-size:21px;margin-bottom:6px}
+  .mech p{color:var(--muted);font-size:15px;margin:0}
+  .sec-t{text-align:center;padding-top:16px}
+  .sec-t h2{font-size:33px}
+  .sec-t p{color:var(--muted);margin:8px 0 26px}
+  .prods{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;padding-bottom:54px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  .card .ph-img{height:250px;border:0;border-bottom:1px solid var(--line);border-radius:0}
+  .card .in{padding:16px}
+  .card h3{font-size:19px}
+  .price{margin-top:8px;font-weight:600}
+  .price s{color:var(--muted);font-weight:400;margin-left:8px}
+  .guide{background:var(--bg2);padding:50px 0}
+  .guide .in{display:grid;grid-template-columns:1fr 1fr;gap:38px;align-items:center}
+  .guide .ph-img{height:260px}
+  .guide h2{font-size:31px;margin-bottom:12px}
+  .revs{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;padding:50px 0}
+  .rev{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px}
+  .stars{color:var(--accent);letter-spacing:2px}
+  .rev p{font-size:15px;margin:10px 0}
+  .rev .who{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+  .rev .who .ph-img{width:36px;height:36px;border-radius:50%;padding:0;font-size:9px}
+  .foot{background:var(--ink);color:#EDE7DF;padding:40px 0 26px;font-size:14px}
+  .foot .in{display:grid;grid-template-columns:2fr 1fr 1fr;gap:30px}
+  .foot a{color:#EDE7DF;text-decoration:none;display:block;margin-bottom:8px;opacity:.85}
+  .foot h4{font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin:0 0 12px;opacity:.6}
+  .cop{border-top:1px solid #4a433c;margin-top:26px;padding-top:16px;opacity:.6;font-size:13px}
+  @media(max-width:760px){
+    .hero,.founder .in,.guide .in{grid-template-columns:1fr;gap:22px;padding:30px 0}
+    .hero h1{font-size:33px}
+    .mech,.prods,.revs,.foot .in{grid-template-columns:1fr}
+    .nav ul{display:none}
+    .hero .ph-img{height:290px}
+  }
+</style>
+</head>
+<body>
+
+<!-- BLOCO: barra de anúncio -->
+<div class="ann">Free shipping over $49 &nbsp;·&nbsp; Free size exchange, keep the one that fits</div>
+
+<!-- BLOCO: cabeçalho e menu -->
+<div class="wrap">
+  <nav class="nav">
+    <div class="logo">BONDESSE</div>
+    <ul><li><a href="#">Wire-Free Comfort</a></li><li><a href="#">Front Closure</a></li><li><a href="#">Size Guide</a></li><li><a href="#">Our Story</a></li></ul>
+    <div>Cart (0)</div>
+  </nav>
+</div>
+
+<!-- BLOCO: herói com a frase de fundadora -->
+<div class="wrap">
+  <section class="hero">
+    <div>
+      <span class="ph">For women who stopped looking</span>
+      <h1>Most bras are designed for a 25&#8209;year&#8209;old body.</h1>
+      <p class="sub">Yours does not have to be. Wire-free, front-closing, and made for the body you have now.</p>
+      <a class="btn" href="#">Shop the Easy Front Bra</a>
+      <a class="btn ghost" href="#">Find my size</a>
+    </div>
+    <div class="ph-img">IMAGEM · mulher real de 55 a 65 anos, luz natural, em casa, vestida, expressão tranquila. Nunca modelo jovem.</div>
+  </section>
+</div>
+
+<!-- BLOCO NOVO: prova de fundadora (o ângulo escolhido) -->
+<section class="founder">
+  <div class="wrap in">
+    <div class="ph-img">IMAGEM · retrato da fundadora, 50+, rosto acolhedor</div>
+    <div>
+      <blockquote>“Nobody tells you that everything changes after 50, and that your bra should change too. After twenty years in this industry, I made the one I could not find.”</blockquote>
+      <cite>, the founder of Bondesse</cite>
+    </div>
+  </div>
+</section>
+
+<!-- BLOCO: os três mecanismos -->
+<div class="wrap">
+  <section class="mech">
+    <div><div class="ic"></div><h3>Closes in the front</h3><p>No reaching behind your back, ever again.</p></div>
+    <div><div class="ic"></div><h3>No underwire</h3><p>A soft moulded cup that holds without digging in.</p></div>
+    <div><div class="ic"></div><h3>Wide, soft straps</h3><p>Spreads the weight. No marks on the shoulder.</p></div>
+  </section>
+</div>
+
+<!-- BLOCO: produtos -->
+<div class="wrap">
+  <div class="sec-t"><h2>Start here</h2><p>Three pieces. That is the whole collection, and it is on purpose.</p></div>
+  <section class="prods">
+    <div class="card"><div class="ph-img">IMAGEM · packshot do sutiã de fecho frontal, fundo claro</div><div class="in"><h3>The Easy Front Bra</h3><div class="price">$34.90 <s>$49.90</s></div></div></div>
+    <div class="card"><div class="ph-img">IMAGEM · packshot do soft cup</div><div class="in"><h3>The Everyday Soft Cup</h3><div class="price">$29.90 <s>$42.90</s></div></div></div>
+    <div class="card"><div class="ph-img">IMAGEM · três sutiãs dobrados, bege, preto e rosa</div><div class="in"><h3>The Easy Front Bra, 3 Pack</h3><div class="price">$79.90 <s>$104.70</s></div></div></div>
+  </section>
+</div>
+
+<!-- BLOCO NOVO: guia de medida (ataca a objeção de tamanho) -->
+<section class="guide">
+  <div class="wrap in">
+    <div>
+      <h2>Not sure of your size? Measure at home.</h2>
+      <p>A tape measure and two minutes. And if it still is not right, we exchange it free within 30 days, with no need to send the first one back before the new one ships.</p>
+      <a class="btn" href="#">Open the size guide</a>
+    </div>
+    <div class="ph-img">IMAGEM · ilustração simples de como medir busto e faixa, traço limpo, sem foto de corpo</div>
+  </div>
+</section>
+
+<!-- BLOCO: prova social -->
+<div class="wrap">
+  <div class="sec-t"><h2>What women tell us</h2><p>Real reviews from verified buyers.</p></div>
+  <section class="revs">
+    <div class="rev"><div class="stars">★★★★★</div><p>“I had given up and was wearing the same stretched-out bra every day. This is the first one in years that I put on without thinking about it.”</p><div class="who"><div class="ph-img">FOTO</div><span>Verified buyer</span></div></div>
+    <div class="rev"><div class="stars">★★★★★</div><p>“My shoulder does not let me reach behind anymore. The front closing changed my mornings.”</p><div class="who"><div class="ph-img">FOTO</div><span>Verified buyer</span></div></div>
+    <div class="rev"><div class="stars">★★★★★</div><p>“The size was wrong and they sent the new one before I returned anything. That alone earned my trust.”</p><div class="who"><div class="ph-img">FOTO</div><span>Verified buyer</span></div></div>
+  </section>
+</div>
+
+<!-- BLOCO: rodapé -->
+<footer class="foot">
+  <div class="wrap in">
+    <div>
+      <div class="logo" style="color:#fff">BONDESSE</div>
+      <p style="opacity:.8;max-width:38ch">Wire-free, front-closing intimates for women over 50. Made for the body you have now.</p>
+    </div>
+    <div><h4>Shop</h4><a href="#">Wire-Free Comfort</a><a href="#">Front Closure</a><a href="#">Size Guide</a></div>
+    <div><h4>Help</h4><a href="#">Shipping</a><a href="#">Returns and Free Size Exchange</a><a href="#">Contact Us</a><a href="#">Privacy Policy</a><a href="#">Terms of Service</a></div>
+  </div>
+  <div class="wrap cop">© 2026 Bondesse. All rights reserved.</div>
+</footer>
+
+</body>
+</html>
