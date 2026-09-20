@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "product_handle": "bondesse-easy-front-bra",
+      "competitor": "lisacharm.com",
+      "competitor_product_title": "Daisy Bras Ultimate Lift, front button bra",
+      "competitor_page": "https://lisacharm.com/daisybra-usa",
+      "real_carousel_count": 32,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "nota": "campeã em fecho frontal simples, e a loja com audiência mais qualificada do nicho (4 min de sessão)",
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/3hd0mbg1yhc0ypyy6w3y2jh7g.webp",
+          "alt": null,
+          "bytes": 81880
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/zlv1rkco3hhmspve20cqj8xu.webp",
+          "alt": null,
+          "bytes": 79188
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/4e72pb3qcu3lpqrnewy9oom5k.webp",
+          "alt": null,
+          "bytes": 64458
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/7gvwzq9wko4uy10q8uetvk4kv.webp",
+          "alt": null,
+          "bytes": 39222
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/5kz6ujv0n82e74e6ov90d6nxg.webp",
+          "alt": null,
+          "bytes": 70662
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/4vny79jq6nsxvkcgp6vj9wyqy.webp",
+          "alt": null,
+          "bytes": 66154
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/5ab1n9bmkzptexyf9ohi0gef8.webp",
+          "alt": null,
+          "bytes": 68926
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/551439anyar79bxyg0qh6l5j1.webp",
+          "alt": null,
+          "bytes": 63558
+        }
+      ]
+    },
+    {
+      "product_handle": "bondesse-everyday-softcup",
+      "competitor": "mixicharm.com",
+      "competitor_product_title": "SonaShape, daily comfort seamless lifting bra",
+      "competitor_page": "https://mixicharm.com/sonashape",
+      "real_carousel_count": 40,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "nota": "a PDP mais completa do nicho: galeria que educa, casting 50+ real",
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/62r28x4r37mo4s6fttxj7r1uh.webp",
+          "alt": null,
+          "bytes": 82012
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/7e0u3jfpo5copxk2exdwi4q18.webp",
+          "alt": null,
+          "bytes": 75022
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4p3aeypek37cihnedhg7odnj.webp",
+          "alt": null,
+          "bytes": 89424
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/48d779ownsg750rducilgir3g.webp",
+          "alt": null,
+          "bytes": 98518
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3jxakrhw0uejnb6bt0o5gxvqw.webp",
+          "alt": null,
+          "bytes": 76482
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3c19na262eyq2nendx3dv8an4.webp",
+          "alt": null,
+          "bytes": 58392
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4u1vebp0qj5bgx0xth1yeyqyt.webp",
+          "alt": null,
+          "bytes": 73154
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/126a6ln71lyv7ijzxflfgd4io.webp",
+          "alt": null,
+          "bytes": 44028
+        }
+      ]
+    },
+    {
+      "product_handle": "bondesse-3-pack",
+      "competitor": "foxyseniors.com",
+      "competitor_product_title": "ComfyLara, instant cool easy-snap bra for seniors",
+      "competitor_page": "https://foxyseniors.com/comfylara",
+      "real_carousel_count": 26,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "nota": "a única que declara o multipack no próprio criativo (3 pelo preço de 1)",
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/e7x1kews5n9o0id2701rvk3h.webp",
+          "alt": null,
+          "bytes": 90306
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/6ctgb1oo3u4isw2j7h1qb0yl1.webp",
+          "alt": null,
+          "bytes": 125256
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/3t3v0rmk4uzttk5gpk2xpei8y.webp",
+          "alt": null,
+          "bytes": 93990
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/1smokpkjph7ti1d4wmlnk2ix2.webp",
+          "alt": null,
+          "bytes": 93180
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/7ek51byo7jjo19hu8ouukm7x6.webp",
+          "alt": null,
+          "bytes": 86290
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/sluyvzcczqrk7ogd2hua674b.webp",
+          "alt": null,
+          "bytes": 96664
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/5dj98kjjdad7948qvzwhmtti4.webp",
+          "alt": null,
+          "bytes": 56768
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/7dw8bamlx1k27fj6kymjkcgl2.webp",
+          "alt": null,
+          "bytes": 105524
+        }
+      ]
+    },
+    {
+      "product_handle": "bondesse-bra-extenders",
+      "competitor": "mixicharm.com",
+      "competitor_product_title": "SonaShape, daily comfort seamless lifting bra",
+      "competitor_page": "https://mixicharm.com/sonashape",
+      "real_carousel_count": 40,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "nota": "Referencia REAPROVEITADA do produto principal: este acessorio nao tem PDP propria no nicho. acessório sem PDP própria no nicho: reaproveita a referência do produto principal, com nota no prompt",
+      "files": [
+        {
+          "position": 1,
+          "original_index_no_carrossel_real": 1,
+          "file": "carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/62r28x4r37mo4s6fttxj7r1uh.webp",
+          "alt": null,
+          "bytes": 82012
+        },
+        {
+          "position": 2,
+          "original_index_no_carrossel_real": 2,
+          "file": "carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/7e0u3jfpo5copxk2exdwi4q18.webp",
+          "alt": null,
+          "bytes": 75022
+        },
+        {
+          "position": 3,
+          "original_index_no_carrossel_real": 3,
+          "file": "carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4p3aeypek37cihnedhg7odnj.webp",
+          "alt": null,
+          "bytes": 89424
+        },
+        {
+          "position": 4,
+          "original_index_no_carrossel_real": 4,
+          "file": "carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/48d779ownsg750rducilgir3g.webp",
+          "alt": null,
+          "bytes": 98518
+        },
+        {
+          "position": 5,
+          "original_index_no_carrossel_real": 5,
+          "file": "carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3jxakrhw0uejnb6bt0o5gxvqw.webp",
+          "alt": null,
+          "bytes": 76482
+        },
+        {
+          "position": 6,
+          "original_index_no_carrossel_real": 6,
+          "file": "carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3c19na262eyq2nendx3dv8an4.webp",
+          "alt": null,
+          "bytes": 58392
+        },
+        {
+          "position": 7,
+          "original_index_no_carrossel_real": 7,
+          "file": "carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4u1vebp0qj5bgx0xth1yeyqyt.webp",
+          "alt": null,
+          "bytes": 73154
+        },
+        {
+          "position": 8,
+          "original_index_no_carrossel_real": 8,
+          "file": "carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/126a6ln71lyv7ijzxflfgd4io.webp",
+          "alt": null,
+          "bytes": 44028
+        }
+      ]
+    }
+  ]
+}

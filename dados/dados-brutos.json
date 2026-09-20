@@ -1,0 +1,242 @@
+{
+ "lunafits.com": {
+  "dominio": "lunafits.com",
+  "coletado_em": "2026-09-19T10:35:03",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "gtm",
+    "pinterest",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://facebook.com/p10n",
+    "https://instagram.com/p10n"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2021-12-10",
+   "dias_arquivados": 3,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 23,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "p10n": {
+    "seguidores": "20",
+    "posts": "0",
+    "raw": "20 Followers, 0 Following, 0 Posts - See Instagram photos and videos from  (&#064;p10n)"
+   }
+  }
+ },
+ "foxyseniors.com": {
+  "dominio": "foxyseniors.com",
+  "coletado_em": "2026-09-19T10:35:39",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "gtm",
+    "pinterest",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://facebook.com/p10n",
+    "https://instagram.com/p10n"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2013-07-15",
+   "dias_arquivados": 0,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 17,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "p10n": {
+    "seguidores": "20",
+    "posts": "0",
+    "raw": "20 Followers, 0 Following, 0 Posts - See Instagram photos and videos from  (&#064;p10n)"
+   }
+  }
+ },
+ "lisacharm.com": {
+  "dominio": "lisacharm.com",
+  "coletado_em": "2026-09-19T10:35:59",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "gtm",
+    "pinterest",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://facebook.com/p10n",
+    "https://instagram.com/p10n"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": "2023-02-25",
+   "dias_arquivados": 24,
+   "erro": null
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 23,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "p10n": {
+    "seguidores": "20",
+    "posts": "0",
+    "raw": "20 Followers, 0 Following, 0 Posts - See Instagram photos and videos from  (&#064;p10n)"
+   }
+  }
+ },
+ "mixicharm.com": {
+  "dominio": "mixicharm.com",
+  "coletado_em": "2026-09-19T10:36:41",
+  "identificacao": {
+   "plataforma": "?",
+   "apps": [
+    "gtm",
+    "pinterest",
+    "snap",
+    "tiktok"
+   ],
+   "pixel_meta": [],
+   "perfis_sociais": [
+    "https://facebook.com/p10n",
+    "https://instagram.com/p10n"
+   ],
+   "nota_social": null
+  },
+  "catalogo": {
+   "erro": "products.json inacessivel ou vazio"
+  },
+  "best_sellers": {
+   "erro": "nenhuma colecao de best sellers publica encontrada",
+   "tentado": [
+    "best-sellers",
+    "bestsellers",
+    "best-selling",
+    "bestseller",
+    "top-sellers",
+    "meistverkauft",
+    "mais-vendidos",
+    "los-mas-vendidos",
+    "best"
+   ]
+  },
+  "wayback": {
+   "primeira_captura": null,
+   "dias_arquivados": 3,
+   "erro": "sem registro no Wayback (dominio novo ou nunca arquivado)"
+  },
+  "tranco": {
+   "erro": "sem ranking (trafego abaixo do limiar do Tranco)"
+  },
+  "sitemap": {
+   "total_urls": 20,
+   "paginas": [],
+   "possiveis_advertoriais": [],
+   "erro": null
+  },
+  "reviews": {
+   "erro": "Judge.me nao acessivel (loja pode usar Loox/Okendo: inspecionar XHR da PDP via Playwright)"
+  },
+  "social": {
+   "p10n": {
+    "seguidores": "20",
+    "posts": "0",
+    "raw": "20 Followers, 0 Following, 0 Posts - See Instagram photos and videos from  (&#064;p10n)"
+   }
+  }
+ }
+}

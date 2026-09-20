@@ -496,3 +496,23 @@ ol.steps li b{color:var(--txt);display:block;margin-bottom:2px}
   .app{display:block}
   body{background:#fff;color:#111}
 }
+
+
+/* ── escala de decisão em 5 níveis (regra de 19/09/2026) ─────────────── */
+.scale5{display:flex;gap:6px;margin:0 0 14px;flex-wrap:wrap}
+.scale5 .sc-item{flex:1 1 0;min-width:96px;text-align:center;padding:7px 8px;border:1px solid var(--line);
+  border-radius:8px;background:var(--bg2);color:var(--low);font:600 11px/1.3 ui-monospace,Consolas,monospace;
+  letter-spacing:.04em;text-transform:uppercase}
+.scale5 .sc-item.is-on{background:var(--amber);border-color:var(--amber);color:#17170F}
+.scale5 .sc-item.is-on.sc-bad{background:var(--red);border-color:var(--red);color:#17170F}
+.scale5 .sc-item.is-on.sc-good{background:var(--green);border-color:var(--green);color:#17170F}
+@media (max-width:700px){.scale5 .sc-item{min-width:calc(50% - 6px);font-size:10px}}
+
+/* ── abas de produto (carrosséis) ─────────────────────────────────────── */
+[role="tablist"][aria-label="Produtos"]{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 16px}
+[role="tablist"][aria-label="Produtos"] [role="tab"]{padding:9px 16px;border:1px solid var(--line2);border-radius:999px;
+  background:var(--s2);color:var(--mid);font:600 13px/1.2 var(--font-ui);cursor:pointer;transition:.15s}
+[role="tablist"][aria-label="Produtos"] [role="tab"]:hover{color:var(--txt);background:var(--s3)}
+[role="tablist"][aria-label="Produtos"] [role="tab"][aria-selected="true"]{background:var(--green);border-color:var(--green);color:#17170F}
+[role="tabpanel"][id^="prod-"]{margin-top:4px}
+@media (max-width:700px){[role="tablist"][aria-label="Produtos"] [role="tab"]{flex:1 1 calc(50% - 8px);text-align:center;font-size:12px}}

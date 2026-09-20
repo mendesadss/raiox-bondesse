@@ -1,0 +1,161 @@
+{
+  "data": "2026-09-19",
+  "fonte": "conector Meta Ads (ads_library_search, page_ids, ACTIVE e ALL)",
+  "nota_metodologica": "ACHADO DA AUDITORIA: o estimated_total_count da Biblioteca e VOLATIL na janela de poucas horas. Medicoes da manha e da tarde do mesmo dia divergiram muito (Lisa Charm 358 -> 250, Foxy Seniors 170 -> 15, MixiCharm 111 na extracao -> 72). Em duas lojas o valor de ACTIVE e ALL voltou identico, o que tambem indica estimativa arredondada, nao contagem firme. Por isso a ficha de cada loja usa o numero da EXTRACAO REAL de anuncios (minerar.js, 263 anuncios lidos um a um), que e auditavel, e nao o estimated_total_count. As contagens por pagina entram como referencia de ordem de grandeza, sempre com a data e hora da medicao.",
+  "lojas": [
+    {
+      "loja": "Lisa Charm",
+      "dominio": "lisacharm.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "110677408552316"
+      ],
+      "tentativas": [
+        "search_terms=front closure bra for seniors easy to wear (achou a pagina)",
+        "page_ids=110677408552316 ACTIVE",
+        "page_ids=110677408552316 ALL",
+        "linkDomain da extracao de 263 anuncios"
+      ],
+      "reportado": {
+        "ativos": 12,
+        "historico": 12
+      },
+      "biblioteca": {
+        "ativos": 250,
+        "historico": 250
+      },
+      "nota": "A ficha reporta 12 porque e o numero de anuncios DESTA LOJA efetivamente extraidos e lidos (linkDomain=lisacharm.com). A Biblioteca estima 250 na pagina, medido as 09h30 de 19/09; a mesma chamada as 08h30 devolveu 358. ACTIVE e ALL identicos indicam estimativa, nao contagem. Divergencia declarada, nao corrigida para cima: o numero auditavel e o da extracao."
+    },
+    {
+      "loja": "LunaFits",
+      "dominio": "lunafits.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "675106679011775"
+      ],
+      "tentativas": [
+        "search_terms=comfortable dresses for women over 50 (achou a pagina)",
+        "page_ids=675106679011775 ACTIVE",
+        "page_ids=675106679011775 ALL",
+        "linkDomain da extracao de 263 anuncios"
+      ],
+      "reportado": {
+        "ativos": 11,
+        "historico": 11
+      },
+      "biblioteca": {
+        "ativos": 415,
+        "historico": 415
+      },
+      "nota": "Mesma leitura da Lisa Charm. ACTIVE=ALL=415 indica estimativa arredondada. A ficha usa os 11 anuncios extraidos e lidos. ATENCAO: esta pagina e a MixiCharm vendem o MESMO produto (/sonashape) pelo MESMO preco com o MESMO criativo: somar as duas contaria a mesma operacao duas vezes."
+    },
+    {
+      "loja": "Foxy Seniors",
+      "dominio": "foxyseniors.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "164672850068343"
+      ],
+      "tentativas": [
+        "search_terms=front closure bra for seniors easy to wear (achou a pagina)",
+        "page_ids=164672850068343 ACTIVE",
+        "page_ids=164672850068343 ALL",
+        "linkDomain da extracao de 263 anuncios"
+      ],
+      "reportado": {
+        "ativos": 30,
+        "historico": 30
+      },
+      "biblioteca": {
+        "ativos": 15,
+        "historico": 15
+      },
+      "nota": "Aqui a Biblioteca devolveu MENOS que a extracao (15 contra 30 anuncios lidos). As 08h30 a mesma chamada devolveu 170. A extracao e o piso confiavel: 30 anuncios desta loja foram lidos um a um, com copy e data. Divergencia declarada."
+    },
+    {
+      "loja": "MixiCharm",
+      "dominio": "mixicharm.com",
+      "metodo": "dominio",
+      "page_ids": [
+        "416834978190017"
+      ],
+      "tentativas": [
+        "search_terms=comfortable dresses for women over 50 (achou a pagina)",
+        "page_ids=416834978190017 ACTIVE",
+        "page_ids=416834978190017 ALL",
+        "linkDomain da extracao de 263 anuncios"
+      ],
+      "reportado": {
+        "ativos": 111,
+        "historico": 111
+      },
+      "biblioteca": {
+        "ativos": 72,
+        "historico": 72
+      },
+      "nota": "A extracao leu 111 anuncios com linkDomain=mixicharm.com, mais que os 72 que a Biblioteca estima agora na pagina. A ficha usa 111, que e auditavel anuncio a anuncio. Mesma operacao que lunafits.com."
+    }
+  ],
+  "resultado": {
+    "avaliado_em": "2026-09-19",
+    "aprovado": false,
+    "problemas": [
+      "Lisa Charm: ficha diz 12 ativos, Biblioteca diz 250 (95% de divergencia, R4). Corrija a ficha com o numero da Biblioteca",
+      "LunaFits: ficha diz 11 ativos, Biblioteca diz 415 (97% de divergencia, R4). Corrija a ficha com o numero da Biblioteca",
+      "Foxy Seniors: ficha diz 30 ativos, Biblioteca diz 15 (100% de divergencia, R4). Corrija a ficha com o numero da Biblioteca",
+      "MixiCharm: ficha diz 111 ativos, Biblioteca diz 72 (54% de divergencia, R4). Corrija a ficha com o numero da Biblioteca"
+    ],
+    "avisos": [
+      "em TODAS as lojas ativos == historico: a chamada ALL provavelmente nao rodou (sintoma de 26/08/2026). Refaça com ad_active_status=ALL (R5)"
+    ],
+    "lojas": [
+      {
+        "loja": "Lisa Charm",
+        "dominio": "lisacharm.com",
+        "metodo": "dominio",
+        "reportado_ativos": 12,
+        "biblioteca_ativos": 250,
+        "biblioteca_historico": 250,
+        "divergencia_pct": 95,
+        "ok": false
+      },
+      {
+        "loja": "LunaFits",
+        "dominio": "lunafits.com",
+        "metodo": "dominio",
+        "reportado_ativos": 11,
+        "biblioteca_ativos": 415,
+        "biblioteca_historico": 415,
+        "divergencia_pct": 97,
+        "ok": false
+      },
+      {
+        "loja": "Foxy Seniors",
+        "dominio": "foxyseniors.com",
+        "metodo": "dominio",
+        "reportado_ativos": 30,
+        "biblioteca_ativos": 15,
+        "biblioteca_historico": 15,
+        "divergencia_pct": 100,
+        "ok": false
+      },
+      {
+        "loja": "MixiCharm",
+        "dominio": "mixicharm.com",
+        "metodo": "dominio",
+        "reportado_ativos": 111,
+        "biblioteca_ativos": 72,
+        "biblioteca_historico": 72,
+        "divergencia_pct": 54,
+        "ok": false
+      }
+    ]
+  },
+  "decisao_do_operador": {
+    "data": "2026-09-19",
+    "quem": "Mendes",
+    "decisao": "MANTER o numero da EXTRACAO na ficha, com a divergencia declarada ao lado.",
+    "por_que": "O estimated_total_count da Biblioteca se mostrou volatil nesta pesquisa: Lisa Charm 358 -> 250 e Foxy Seniors 170 -> 15 na mesma manha, e em TODAS as 4 lojas o valor de ACTIVE voltou identico ao de ALL, o que e logicamente impossivel (historico nunca e menor que ativos) e indica estimativa arredondada, nao contagem. A extracao leu 263 anuncios um a um, com copy, data e dominio de destino: e auditavel. Obedecer a regra R4 aqui trocaria dado verificado por estimativa instavel, e publicaria que a Foxy Seniors tem 15 anuncios quando 30 dela foram lidos.",
+    "consequencia": "O auditor (check 28) permanece REPROVADO de proposito. Isso esta declarado na tela 10 (Dados e fontes) e na tela 03 de cada loja. Nao e erro esquecido: e desvio consciente de regra, registrado."
+  }
+}

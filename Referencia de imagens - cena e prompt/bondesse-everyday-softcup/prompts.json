@@ -1,0 +1,142 @@
+{
+  "product_handle": "bondesse-everyday-softcup",
+  "competitor": "mixicharm.com",
+  "competitor_product_title": "SonaShape, daily comfort seamless lifting bra",
+  "competitor_page": "https://mixicharm.com/sonashape",
+  "real_carousel_count": 40,
+  "downloaded_carousel_count": 8,
+  "amostrado": true,
+  "nota": "a PDP mais completa do nicho: galeria que educa, casting 50+ real",
+  "files": [
+    {
+      "position": 1,
+      "original_index_no_carrossel_real": 1,
+      "file": "carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/62r28x4r37mo4s6fttxj7r1uh.webp",
+      "alt": null,
+      "bytes": 82012
+    },
+    {
+      "position": 2,
+      "original_index_no_carrossel_real": 2,
+      "file": "carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/7e0u3jfpo5copxk2exdwi4q18.webp",
+      "alt": null,
+      "bytes": 75022
+    },
+    {
+      "position": 3,
+      "original_index_no_carrossel_real": 3,
+      "file": "carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4p3aeypek37cihnedhg7odnj.webp",
+      "alt": null,
+      "bytes": 89424
+    },
+    {
+      "position": 4,
+      "original_index_no_carrossel_real": 4,
+      "file": "carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/48d779ownsg750rducilgir3g.webp",
+      "alt": null,
+      "bytes": 98518
+    },
+    {
+      "position": 5,
+      "original_index_no_carrossel_real": 5,
+      "file": "carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3jxakrhw0uejnb6bt0o5gxvqw.webp",
+      "alt": null,
+      "bytes": 76482
+    },
+    {
+      "position": 6,
+      "original_index_no_carrossel_real": 6,
+      "file": "carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3c19na262eyq2nendx3dv8an4.webp",
+      "alt": null,
+      "bytes": 58392
+    },
+    {
+      "position": 7,
+      "original_index_no_carrossel_real": 7,
+      "file": "carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4u1vebp0qj5bgx0xth1yeyqyt.webp",
+      "alt": null,
+      "bytes": 73154
+    },
+    {
+      "position": 8,
+      "original_index_no_carrossel_real": 8,
+      "file": "carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/126a6ln71lyv7ijzxflfgd4io.webp",
+      "alt": null,
+      "bytes": 44028
+    }
+  ],
+  "references": [
+    {
+      "position": 1,
+      "type": "Competitor carousel image 1 of 8",
+      "description": "Competitor carousel image 1 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-01.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/62r28x4r37mo4s6fttxj7r1uh.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 1 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 2,
+      "type": "Competitor carousel image 2 of 8",
+      "description": "Competitor carousel image 2 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-02.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/7e0u3jfpo5copxk2exdwi4q18.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 2 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 3,
+      "type": "Competitor carousel image 3 of 8",
+      "description": "Competitor carousel image 3 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-03.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4p3aeypek37cihnedhg7odnj.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 3 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 4,
+      "type": "Competitor carousel image 4 of 8",
+      "description": "Competitor carousel image 4 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-04.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/48d779ownsg750rducilgir3g.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 4 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 5,
+      "type": "Competitor carousel image 5 of 8",
+      "description": "Competitor carousel image 5 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-05.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3jxakrhw0uejnb6bt0o5gxvqw.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 5 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 6,
+      "type": "Competitor carousel image 6 of 8",
+      "description": "Competitor carousel image 6 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-06.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3c19na262eyq2nendx3dv8an4.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 6 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 7,
+      "type": "Competitor carousel image 7 of 8",
+      "description": "Competitor carousel image 7 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-07.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4u1vebp0qj5bgx0xth1yeyqyt.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 7 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    },
+    {
+      "position": 8,
+      "type": "Competitor carousel image 8 of 8",
+      "description": "Competitor carousel image 8 of 8, from the mixicharm.com PDP.",
+      "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-08.webp",
+      "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/126a6ln71lyv7ijzxflfgd4io.webp",
+      "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 8 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+    }
+  ]
+}

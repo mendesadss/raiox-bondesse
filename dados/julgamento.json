@@ -1,0 +1,190 @@
+{
+  "nicho": "Sutiã de conforto para mulher 50+ (sem aro, fecho frontal)",
+  "mercado": "US",
+  "nivel_operador": "iniciante",
+  "marca_do_mentorado": "Bondesse",
+  "data": "2026-09-19",
+
+  "ciclo_de_vida": {
+    "selo": "ESCALANDO",
+    "justificativa": "Demanda observada subindo (rank SimilarWeb das duas medidas melhorou 33% e 50% em 3 meses) e entrada agressiva de anunciantes novos (12 das 31 marcas com campeão de até 7 dias). Não é EMERGENTE porque já há volume alto de mídia; não é SATURADO porque nenhuma operação estabeleceu fosso, e o ticket baixo sugere que ninguém consolidou margem.",
+    "divergencia_declarada": "A saturação de mídia aponta lotação (1.947 variações só da MixiCharm), mas a longevidade aponta mercado imaturo (nenhum campeão acima de 15 dias entre as líderes). Os dois sinais não fecham num selo só: registrado como transição de fase."
+  },
+
+  "lojas": [
+    {
+      "slug": "lisacharm",
+      "nome": "Lisa Charm",
+      "dominio": "lisacharm.com",
+      "page_id": "110677408552316",
+      "anuncios_ativos_mcp": 358,
+      "anuncios_na_amostra": 12,
+      "campeao_dias": 13,
+      "variacoes_max": 31,
+      "formato": { "VIDEO": 12 },
+      "visitas_mes": 46400,
+      "rejeicao_pct": 45.43,
+      "paginas_por_visita": 4.31,
+      "duracao_sessao": "00:04:00",
+      "rank_3m": 1145520,
+      "rank_atual": 576110,
+      "produto_campeao": {
+        "handle": "daisybra-usa",
+        "titulo": "Simple & Convenient Front Button Bra",
+        "preco": 15.99,
+        "ancora": 84.99
+      },
+      "plataforma": "Next.js + Cloudflare (não é Shopify)",
+      "receita_estimada_mes": { "conv_1pct": 7419, "conv_2pct": 14839, "natureza": "estimativa: ticket medido x premissa de conversão" },
+      "selos": {
+        "modelo": "DROPSHIP PURO",
+        "veredito": "MODELAR",
+        "nivel": "INICIANTE",
+        "defensabilidade": "ARBITRAGEM"
+      },
+      "justificativa_selos": "Modelo: âncora fictícia compartilhada ($84.99 idêntica às concorrentes), produto genérico, domínio de 2023 com operação recente, 100% tráfego pago aparente. Veredito MODELAR: é a única com prova de audiência qualificada (4min de sessão, 4,31 páginas, rejeição 45%) e a maior em tráfego medido. Nível INICIANTE: produto único, grade simples, criativo de vídeo direto, ticket baixo. Defensabilidade ARBITRAGEM: sem sinal de recompra, catálogo raso, ângulo de desconto copiável em 1 dia.",
+      "momentum": "crescendo",
+      "o_que_copiar": "A estrutura de PDP que sustenta 4 minutos de sessão, e o ângulo de fecho frontal como produto principal (não como variação).",
+      "o_que_evitar": "O nome da página traz 'LAST DAY SALE 80% OFF' no título do produto: promoção permanente embutida no SEO. Queima o preço de tabela e prejudica indexação."
+    },
+    {
+      "slug": "lunafits",
+      "nome": "LunaFits",
+      "dominio": "lunafits.com",
+      "page_id": "675106679011775",
+      "anuncios_ativos_mcp": 431,
+      "anuncios_na_amostra": 11,
+      "campeao_dias": 9,
+      "variacoes_max": 6,
+      "formato": { "VIDEO": 11 },
+      "visitas_mes": 20800,
+      "rejeicao_pct": 53.46,
+      "paginas_por_visita": 4.15,
+      "duracao_sessao": "00:01:22",
+      "produto_campeao": {
+        "handle": "sonashape",
+        "titulo": "SonaShape - Daily Comfort Seamless Lifting Bra",
+        "preco": 22.99,
+        "ancora": 84.99
+      },
+      "plataforma": "Next.js + Cloudflare (não é Shopify)",
+      "receita_estimada_mes": { "conv_1pct": 4782, "conv_2pct": 9564, "natureza": "estimativa: ticket medido x premissa de conversão" },
+      "selos": {
+        "modelo": "DROPSHIP PURO",
+        "veredito": "MODELAR",
+        "nivel": "INICIANTE",
+        "defensabilidade": "ARBITRAGEM"
+      },
+      "justificativa_selos": "MODELAR pelo ÂNGULO, não pela operação: é a dona da copy de fundadora ('depois de 20 anos na indústria, eu criei'), que é o único ativo defensável encontrado no nicho inteiro. Operacionalmente é dropship puro com a mesma âncora fictícia.",
+      "momentum": "crescendo",
+      "vinculo": "MESMA OPERAÇÃO que mixicharm.com: mesmo produto (/sonashape), mesmo preço ($22.99), mesmo criativo ('GENTLE LIFTING BRA FOR SENIORS'). Dois domínios do mesmo dono, provável estrutura anti-ban.",
+      "o_que_copiar": "A copy de fundadora. É o ângulo escolhido para a Bondesse.",
+      "o_que_evitar": "Contar LunaFits e MixiCharm como dois concorrentes distintos: é uma operação só."
+    },
+    {
+      "slug": "foxyseniors",
+      "nome": "Foxy Seniors",
+      "dominio": "foxyseniors.com",
+      "page_id": "164672850068343",
+      "anuncios_ativos_mcp": 170,
+      "anuncios_na_amostra": 30,
+      "campeao_dias": 15,
+      "variacoes_max": 53,
+      "formato": { "VIDEO": 25, "IMAGE": 5 },
+      "visitas_mes": 20000,
+      "rejeicao_pct": null,
+      "produto_campeao": {
+        "handle": "comfylara",
+        "titulo": "ComfyLara - Instant Cool & Easy-Snap Bra For Seniors",
+        "preco": 21.99,
+        "ancora": 84.99
+      },
+      "plataforma": "Next.js + Cloudflare (não é Shopify)",
+      "receita_estimada_mes": { "conv_1pct": 4398, "conv_2pct": 8796, "natureza": "estimativa: ticket medido x premissa de conversão" },
+      "selos": {
+        "modelo": "DROPSHIP PURO",
+        "veredito": "MODELAR",
+        "nivel": "INICIANTE",
+        "defensabilidade": "ARBITRAGEM"
+      },
+      "justificativa_selos": "Único do grupo com mecanismo de produto nomeado (tecido ice-silk que 'resfria 5 graus') e com oferta de multipack explícita no criativo (3 pelo preço de 1). É o modelo de escada de oferta a copiar.",
+      "momentum": "crescendo",
+      "o_que_copiar": "A escada 3x1 declarada já no anúncio, e o mecanismo nomeado (ice-silk). Mecanismo com nome vende melhor que adjetivo.",
+      "o_que_evitar": "O gatilho 'LAST CHANCE' num lançamento de 15 dias.",
+      "lacunas": ["rejeição, páginas por visita e duração não retornaram no SimilarWeb público"]
+    },
+    {
+      "slug": "mixicharm",
+      "nome": "MixiCharm",
+      "dominio": "mixicharm.com",
+      "page_id": "416834978190017",
+      "anuncios_na_amostra": 111,
+      "campeao_dias": 13,
+      "variacoes_max": 56,
+      "variacoes_soma": 1947,
+      "formato": { "VIDEO": 111 },
+      "visitas_mes": 12600,
+      "rejeicao_pct": 54.0,
+      "paginas_por_visita": 2.94,
+      "duracao_sessao": "00:00:35",
+      "rank_3m": 2625168,
+      "rank_atual": 1759228,
+      "produto_campeao": {
+        "handle": "sonashape",
+        "titulo": "SonaShape - Daily Comfort Seamless Lifting Bra",
+        "preco": 22.99,
+        "ancora": 84.99
+      },
+      "plataforma": "Next.js + Cloudflare (não é Shopify)",
+      "receita_estimada_mes": { "conv_1pct": 2897, "conv_2pct": 5793, "natureza": "estimativa: ticket medido x premissa de conversão" },
+      "selos": {
+        "modelo": "DROPSHIP PURO",
+        "veredito": "OBSERVAR",
+        "nivel": "MEDIO",
+        "defensabilidade": "ARBITRAGEM"
+      },
+      "justificativa_selos": "OBSERVAR, não MODELAR: é a que mais gasta em mídia (111 anúncios, 1.947 variações) e a que MENOS converte atenção (menor tráfego das quatro, sessão de 35 segundos, 2,94 páginas). Copiar o volume de teste dela exige bolso que o iniciante não tem, e o resultado observado não recompensa. Nível MÉDIO pelo mesmo motivo: o método é caro.",
+      "momentum": "crescendo em rank, mas queimando verba",
+      "vinculo": "MESMA OPERAÇÃO que lunafits.com.",
+      "o_que_copiar": "O casting de modelos reais 50-60 anos e a galeria educativa da PDP (guia de tamanho, como a alça ajusta).",
+      "o_que_evitar": "Contador regressivo de 13 minutos que reinicia a cada visita, combinado com 'CLOSING DOWN SALE' numa loja que está lançando. Urgência falsa: risco de reprovação no Merchant e de chargeback. E a grade de 15 cores x 16 bandas x 6 taças (mais de 1.400 variantes), inviável para iniciante."
+    }
+  ],
+
+  "matematica_do_nicho": {
+    "ticket_medido_min": 15.99,
+    "ticket_medido_max": 22.99,
+    "cpa_benchmark_apparel_usd": [20, 40],
+    "conclusao": "O core sozinho NÃO paga o CPA. Vender uma peça a $22.99 com CPA de $25 dá margem negativa antes do custo do produto e do frete. Por isso todas as líderes rodam multipack (3 pelo preço de 1). Para a Bondesse, a escada de oferta é obrigatória desde o dia 1, não opcional.",
+    "natureza": "ticket medido no HTML da PDP; CPA é benchmark de categoria, não medido nesta pesquisa"
+  },
+
+  "angulo_dominante": {
+    "objecao_atacada": "o aro machuca e é impossível fechar o sutiã atrás das costas",
+    "promessa": "conforto sem perder sustentação",
+    "mecanismos_citados": ["sem aro", "fecho frontal", "taça moldada fina", "tecido ice-silk (resfria)", "alça ajustável na frente"],
+    "formato_dominante": "vídeo (159 dos 164 anúncios das 4 líderes)",
+    "oferta_padrao": "60-81% OFF sobre âncora fictícia de $84.99, ou 3 pelo preço de 1"
+  },
+
+  "lacunas_declaradas": [
+    {
+      "dado": "Split de tráfego pago vs orgânico por loja",
+      "tentativas": ["trafego.js (SimilarWeb público) nas 4 lojas"],
+      "motivo": "o SimilarWeb público não devolveu o detalhamento de canais nesta rodada",
+      "impacto": "A análise de defensabilidade ficou apoiada em sinal indireto (idade do domínio, volume de mídia, duração de sessão) em vez de medição direta de canal. O selo ARBITRAGEM das 4 é sustentado, mas com menos força do que teria com o dado de canal."
+    },
+    {
+      "dado": "Contagem de anúncio por termo de busca",
+      "tentativas": ["conector Meta Ads com 6 termos", "termos longos de 4+ palavras"],
+      "motivo": "o vocabulário de roupa feminina colide com anúncio de romance/webnovel; 'comfortable dresses for women over 50' devolve 18.653 ativos que não são do nicho",
+      "impacto": "Não existe denominador confiável de tamanho de mercado por termo neste nicho. A matriz de países não pôde ser construída da forma padrão; o dimensionamento saiu por page_id e por domínio de destino."
+    },
+    {
+      "dado": "Custo de fornecedor (AliExpress/CJ) por produto",
+      "tentativas": ["não executado nesta rodada"],
+      "motivo": "coleta não realizada",
+      "impacto": "O P&L do mentorado sai com custo em FAIXA estimada, não fechado. A margem por pedido é apresentada como intervalo."
+    }
+  ]
+}

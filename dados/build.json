@@ -1,0 +1,662 @@
+{
+  "_meta": {
+    "origem": "/raio-x-area-de-membros, pesquisa de 19/09/2026",
+    "nicho": "Sutiã de conforto para mulher 50+ (sem aro, fecho frontal)",
+    "nivel_operador": "iniciante",
+    "aviso_copy": "A Voz do Mercado (bloco 12) saiu de fonte editorial, não de fala crua de cliente: Reddit bloqueado ao crawler e Amazon não devolveu review. A copy abaixo está em NÍVEL BÁSICO e precisa de uma passada por /copywriting antes de subir a loja. Decisão do Mendes em 19/09/2026.",
+    "aviso_plataforma": "Nenhuma das 4 concorrentes é Shopify (todas Next.js + Cloudflare). Copy, oferta e criativo são comparáveis; tema e checkout não são 1:1."
+  },
+  "marca": {
+    "nome": "Bondesse",
+    "pais": "US",
+    "moeda": "USD",
+    "idioma": "en",
+    "paleta": {
+      "bg": "#FBF8F4",
+      "bg2": "#F2EBE2",
+      "primary": "#8C6A4F",
+      "accent": "#C9A227",
+      "ink": "#2E2A26",
+      "good": "#5E7B5A",
+      "line": "#E2D8CB"
+    },
+    "fontes": {
+      "titulo": {
+        "nome": "Cormorant Garamond",
+        "handle": "cormorant_n5"
+      },
+      "corpo": {
+        "nome": "Inter",
+        "handle": "inter_n4"
+      }
+    },
+    "logo": null,
+    "announcement": "Free shipping over $49 · Free size exchange, keep the one that fits"
+  },
+  "posicionamento": {
+    "angulo_escolhido": "fundadora",
+    "tese": "A maioria dos sutiãs é desenhada para um corpo de 25 anos. Depois dos 50 o corpo muda, e a peça deveria mudar junto.",
+    "por_que": "É o único ângulo defensável medido no nicho. Desconto e contador regressivo são copiados em um dia (comprovado: 4 lojas usam a mesma âncora de $84.99 ao centavo). História de fundadora, não.",
+    "objecao_principal": "Descrença, não preço. A fonte editorial relata mulheres na casa dos 70 que 'desistiram e usam o mesmo sutiã esticado todo dia porque nada mais parece certo'.",
+    "resposta_a_objecao": "Troca de tamanho gratuita e guia de medida em casa. A promessa é 'acerte o tamanho sem sair de casa', não 'é barato'.",
+    "nao_fazer": [
+      "Contador regressivo que reinicia a cada visita (a MixiCharm usa 13 minutos + 'CLOSING DOWN SALE' numa loja que está lançando: urgência falsa, risco de Merchant e chargeback)",
+      "Âncora fictícia de $84.99 (idêntica nas 4 concorrentes, ninguém pratica)",
+      "Prometer 'shaping/modelador' como benefício central: as próprias fontes do nicho tratam como palavra de marketing vazia",
+      "Abrir com grade gigante (a MixiCharm roda 15 cores x 16 bandas x 6 taças = mais de 1.400 variantes)"
+    ]
+  },
+  "colecoes": [
+    {
+      "handle": "wire-free-comfort",
+      "titulo": "Wire-Free Comfort",
+      "descricao_html": "<p>Soft-cup bras with no underwire, made for a body that has changed. Wide straps, a gentle band, and nothing digging in.</p>"
+    },
+    {
+      "handle": "front-closure",
+      "titulo": "Front Closure",
+      "descricao_html": "<p>Bras that close in the front, so you never have to reach behind your back again. Made for stiff shoulders, sore hands, and mornings in a hurry.</p>"
+    }
+  ],
+  "produtos": [
+    {
+      "handle": "bondesse-easy-front-bra",
+      "titulo": "The Easy Front Bra",
+      "tipo": "Bra",
+      "tags": [
+        "front closure",
+        "wire-free",
+        "50+"
+      ],
+      "colecao": "front-closure",
+      "preco": "34.90",
+      "de": "49.90",
+      "sku": "BD-01",
+      "status": "active",
+      "papel": "CORE",
+      "pdp": {
+        "eyebrow": "Front closure · No underwire",
+        "lede": "Closes in the front. Stays comfortable all day.",
+        "proof": "Wide straps, soft cup, gentle band. Nothing to reach for behind your back.",
+        "season": "Everyday"
+      },
+      "descricao_html": "<p>Most bras are designed for a 25-year-old body. After 50, everything changes: the cup size, the sensitivity of the skin, how much heat you can stand. The band should change too.</p><p>The Easy Front Bra closes at the front, so stiff shoulders and sore hands are no longer part of getting dressed. There is no underwire to dig in, the straps are wide enough not to cut, and the band is firm without squeezing.</p><ul><li><strong>Front closure</strong>, no reaching behind your back</li><li><strong>No underwire</strong>, soft moulded cup, light to moderate support</li><li><strong>Wide straps</strong>, spreads the weight, no marks on the shoulder</li><li><strong>Breathable fabric</strong>, for skin that runs warm</li></ul><p>Not sure of your size? Measure at home with our guide, and if it is not right, exchange it free.</p>",
+      "seo_titulo": "The Easy Front Bra | Front Closure, No Underwire | Bondesse",
+      "seo_descricao": "A front-closure, wire-free bra made for women over 50. Wide straps, soft cup, breathable fabric. Free size exchange.",
+      "imagens": []
+    },
+    {
+      "handle": "bondesse-everyday-softcup",
+      "titulo": "The Everyday Soft Cup",
+      "tipo": "Bra",
+      "tags": [
+        "wire-free",
+        "everyday",
+        "50+"
+      ],
+      "colecao": "wire-free-comfort",
+      "preco": "29.90",
+      "de": "42.90",
+      "sku": "BD-02",
+      "status": "active",
+      "papel": "ALTERNATIVA AO CORE",
+      "pdp": {
+        "eyebrow": "Wire-free · Everyday",
+        "lede": "The one you reach for every morning.",
+        "proof": "Soft cup, no wire, nothing to adjust through the day.",
+        "season": "Everyday"
+      },
+      "descricao_html": "<p>The bra you put on without thinking about it. No underwire, a soft moulded cup that shapes without squashing, and a band that stays where you put it.</p><p>If you have been wearing the same stretched-out bra because nothing else feels right, start here.</p>",
+      "seo_titulo": "The Everyday Soft Cup | Wire-Free Bra for Women 50+ | Bondesse",
+      "seo_descricao": "A wire-free, soft-cup everyday bra for women over 50. No digging, no adjusting. Free size exchange.",
+      "imagens": []
+    },
+    {
+      "handle": "bondesse-3-pack",
+      "titulo": "The Easy Front Bra, 3 Pack",
+      "tipo": "Bra",
+      "tags": [
+        "front closure",
+        "multipack",
+        "value"
+      ],
+      "colecao": "front-closure",
+      "preco": "79.90",
+      "de": "104.70",
+      "sku": "BD-01-3",
+      "status": "active",
+      "papel": "UPSELL (é o degrau que faz a conta fechar)",
+      "pdp": {
+        "eyebrow": "Three colours · Best value",
+        "lede": "One for the wash, one for the drawer, one on you.",
+        "proof": "$26.63 each instead of $34.90.",
+        "season": "Everyday"
+      },
+      "descricao_html": "<p>Three of the same bra you already know fits, in beige, black and soft rose. Most customers buy one, find out it works, and come back for more: this saves you the second trip.</p><p>Same free size exchange on all three.</p>",
+      "seo_titulo": "The Easy Front Bra 3 Pack | Front Closure Bras | Bondesse",
+      "seo_descricao": "Three front-closure, wire-free bras for $79.90. Beige, black and soft rose. Free size exchange.",
+      "imagens": []
+    },
+    {
+      "handle": "bondesse-bra-extenders",
+      "titulo": "Comfort Band Extenders (set of 3)",
+      "tipo": "Accessory",
+      "tags": [
+        "accessory",
+        "fit"
+      ],
+      "colecao": "wire-free-comfort",
+      "preco": "9.90",
+      "de": "14.90",
+      "sku": "BD-EXT",
+      "status": "active",
+      "papel": "ORDER BUMP (na PDP)",
+      "pdp": {
+        "eyebrow": "Fit helper",
+        "lede": "A little more room, when you need it.",
+        "proof": "Three widths, soft backing, no metal against the skin.",
+        "season": "Everyday"
+      },
+      "descricao_html": "<p>Bodies change from week to week. These extenders give the band a little more room on the days you need it, without buying a whole new size.</p>",
+      "seo_titulo": "Comfort Band Extenders | Bra Fit Accessory | Bondesse",
+      "seo_descricao": "Set of three soft bra band extenders. Adds room to the band without changing size.",
+      "imagens": []
+    }
+  ],
+  "bump_pdp": {
+    "handle": "bondesse-bra-extenders"
+  },
+  "addons": [
+    {
+      "handle": "bondesse-bra-extenders",
+      "papel": "order_bump",
+      "preco": "9.90",
+      "aceite_estimado_pct": 25
+    },
+    {
+      "handle": "bondesse-3-pack",
+      "papel": "upsell",
+      "preco": "79.90",
+      "aceite_estimado_pct": 12
+    }
+  ],
+  "escada_de_oferta": {
+    "core": {
+      "handle": "bondesse-easy-front-bra",
+      "preco": "34.90",
+      "ancora": "49.90",
+      "por_que": "Ticket acima do nicho ($15.99 a $22.99) porque o ângulo é marca, não desconto. A âncora de $49.90 é plausível, não fictícia: é o que um sutiã adaptativo custa no varejo (Silverts, Liberare operam nessa faixa).",
+      "custo_estimado_usd": [
+        6,
+        11
+      ],
+      "natureza_custo": "ESTIMATIVA. Custo de fornecedor não foi cotado nesta rodada: lacuna declarada."
+    },
+    "order_bump": {
+      "handle": "bondesse-bra-extenders",
+      "preco": "9.90",
+      "aceite_estimado_pct": 25,
+      "por_que": "Item barato e diretamente ligado à objeção de ajuste. Não compete com o core."
+    },
+    "upsell": {
+      "handle": "bondesse-3-pack",
+      "preco": "79.90",
+      "aceite_estimado_pct": 12,
+      "por_que": "É o degrau que faz a conta fechar. Todas as líderes do nicho rodam multipack (3 pelo preço de 1) por necessidade matemática, não por estética."
+    },
+    "aov_projetado_usd": 47.96,
+    "conta_do_aov": "34.90 + (9.90 x 0.25) + (79.90 x 0.12) = 34.90 + 2.48 + 9.59 = 46.97. Arredondado com variação de mix: ~$47.",
+    "pl_dois_cenarios": {
+      "so_core": {
+        "receita": 34.9,
+        "custo_produto_estimado": [
+          6,
+          11
+        ],
+        "frete_estimado": [
+          4,
+          7
+        ],
+        "gateway_pct": 4,
+        "cpa_benchmark": [
+          20,
+          40
+        ],
+        "margem_usd": [
+          -17.5,
+          3.5
+        ],
+        "leitura": "Com CPA no meio do benchmark ($30), o core sozinho fica NEGATIVO. Só fecha se o CPA vier abaixo de $22, o que não é premissa segura para quem está começando."
+      },
+      "escada_completa": {
+        "aov": 47,
+        "custo_medio_estimado": [
+          9,
+          15
+        ],
+        "frete_estimado": [
+          4,
+          7
+        ],
+        "gateway_pct": 4,
+        "cpa_benchmark": [
+          20,
+          40
+        ],
+        "margem_usd": [
+          -3.9,
+          12.2
+        ],
+        "leitura": "Com CPA de $30, a escada completa dá margem positiva na faixa boa e raspa na faixa ruim. CONCLUSÃO: a escada não é opcional, é a condição para a operação existir."
+      }
+    },
+    "veredito_g3": "PASSA COM RESSALVA. A margem fecha com a escada montada e o CPA controlado, e não fecha sem ela. O plano sai marcado: não subir a loja com produto único."
+  },
+  "paginas": [
+    {
+      "handle": "contact",
+      "titulo": "Contact Us",
+      "corpo_html": "<p>Questions about sizing, an order or an exchange? Write to us and a real person answers within one business day.</p><p><b>Bondesse</b><br>Email: support@bondesse.com<br>Monday to Friday, 9am to 5pm ET.</p><p>We are an online-only shop and ship across the United States.</p>"
+    },
+    {
+      "handle": "shipping-policy",
+      "titulo": "Shipping",
+      "corpo_html": "<p>Free standard shipping on orders over $49. Below that, a flat $4.95 applies.</p><p>Orders leave our supplier within 1 to 2 business days. Standard delivery takes <b>7 to 12 business days</b> within the United States, and you get a tracking link by email as soon as the parcel ships.</p><p><small>Prazo calibrado pelo padrao observado no nicho: as 4 concorrentes declaram \"Secured Express Shipping\" sem publicar prazo exato na pagina de produto. Na ausencia de numero declarado pelo mercado, usamos o piso conservador de importacao. Confirmar com o fornecedor antes de publicar.</small></p>"
+    },
+    {
+      "handle": "refund-policy",
+      "titulo": "Returns and Free Size Exchange",
+      "corpo_html": "<p><b>If the size is not right, we exchange it free within 30 days.</b> You do not need to send the first one back before we ship the new one.</p><p>If you would rather have your money back, return the item unworn, with tags, within 30 days for a full refund of the item price.</p><p><small>Padrao observado no nicho: as concorrentes declaram \"45-Day Satisfaction Guarantee\" e vendem um upsell de \"refund de 365 dias sem devolver\". A Bondesse abre com 30 dias de troca livre, que e a resposta a objecao real medida (descrenca de que serve), sem assumir passivo de caixa nao medido.</small></p>"
+    },
+    {
+      "handle": "privacy-policy",
+      "titulo": "Privacy Policy",
+      "corpo_html": "<p>We collect only what we need to process your order: name, shipping address, email and payment confirmation. We never sell your data.</p><p>We use cookies to measure advertising performance. You can refuse them without losing access to the shop.</p><p><small>RASCUNHO. Revisar com a base legal do pais de operacao antes de publicar.</small></p>"
+    },
+    {
+      "handle": "terms-of-service",
+      "titulo": "Terms of Service",
+      "corpo_html": "<p>By placing an order you agree to the prices, shipping estimates and return terms published on this site at the time of purchase.</p><p>Product photographs are illustrative; colour may vary slightly between screens.</p><p><small>RASCUNHO. Revisar antes de publicar.</small></p>"
+    }
+  ],
+  "grade_de_tamanho": {
+    "decisao": "ABRIR REDUZIDO",
+    "cores_iniciais": [
+      "Beige",
+      "Black",
+      "Soft Rose"
+    ],
+    "tamanhos_iniciais": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "por_que": "A MixiCharm roda mais de 1.400 variantes (15 cores x 16 bandas x 6 taças). Para iniciante isso é armadilha de erro de pedido e de estoque parado. 3 cores x 6 tamanhos = 18 variantes. Ampliar só depois de validar.",
+    "guia_de_medida": "OBRIGATÓRIO na PDP. A galeria educativa (guia de tamanho, como a alça ajusta) é o elemento que sustenta 4 minutos de sessão na Lisa Charm, a loja mais qualificada do nicho."
+  },
+  "funil": {
+    "canal_principal": "Meta (Facebook/Instagram)",
+    "formato": "VÍDEO. 159 dos 164 anúncios das 4 líderes são vídeo. Estático não compete aqui.",
+    "canal_secundario": "Google Search com orçamento mínimo, só depois do Meta validar",
+    "orcamento_teste_usd_dia": [
+      20,
+      30
+    ],
+    "criterio_de_parada": {
+      "ctr_alerta": "abaixo de 1% após ~$50 gastos",
+      "ctr_parada": "abaixo de 0,5% após ~$100 gastos",
+      "cpa_alerta": "acima de $45 (1,5x o benchmark) após $100-150",
+      "cpa_parada": "acima de $75 (2,5x o benchmark) no mesmo ponto",
+      "carrinho_parada": "conversão de carrinho abaixo de 8% com 100+ sessões na PDP",
+      "nota": "Com AOV projetado de ~$47, um CPA acima de $40 come a margem inteira. O gatilho de parada aqui é mais apertado que o genérico da skill, de propósito."
+    }
+  },
+  "menu": [
+    {
+      "tipo": "frontpage",
+      "titulo": "Home"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Wire-Free Comfort",
+      "handle": "wire-free-comfort"
+    },
+    {
+      "tipo": "collection",
+      "titulo": "Front Closure",
+      "handle": "front-closure"
+    }
+  ],
+  "tema": {
+    "settings": {}
+  },
+  "referencias_produtos": [
+    {
+      "product_handle": "bondesse-easy-front-bra",
+      "product_name": "The Easy Front Bra",
+      "competitor": "lisacharm.com",
+      "competitor_page": "https://lisacharm.com/daisybra-usa",
+      "real_carousel_count": 32,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "references": [
+        {
+          "position": 1,
+          "type": "Competitor carousel image 1 of 8",
+          "description": "Competitor carousel image 1 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/3hd0mbg1yhc0ypyy6w3y2jh7g.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 1 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 2,
+          "type": "Competitor carousel image 2 of 8",
+          "description": "Competitor carousel image 2 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/zlv1rkco3hhmspve20cqj8xu.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 2 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 3,
+          "type": "Competitor carousel image 3 of 8",
+          "description": "Competitor carousel image 3 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/4e72pb3qcu3lpqrnewy9oom5k.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 3 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 4,
+          "type": "Competitor carousel image 4 of 8",
+          "description": "Competitor carousel image 4 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/7gvwzq9wko4uy10q8uetvk4kv.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 4 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 5,
+          "type": "Competitor carousel image 5 of 8",
+          "description": "Competitor carousel image 5 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/5kz6ujv0n82e74e6ov90d6nxg.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 5 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 6,
+          "type": "Competitor carousel image 6 of 8",
+          "description": "Competitor carousel image 6 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/4vny79jq6nsxvkcgp6vj9wyqy.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 6 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 7,
+          "type": "Competitor carousel image 7 of 8",
+          "description": "Competitor carousel image 7 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/5ab1n9bmkzptexyf9ohi0gef8.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 7 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 8,
+          "type": "Competitor carousel image 8 of 8",
+          "description": "Competitor carousel image 8 of 8, from the lisacharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-easy-front-bra/carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/d90iika49d0l51iik7pjus7x/i/551439anyar79bxyg0qh6l5j1.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 8 of 8 in the The Easy Front Bra carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from lisacharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra Product Master photographs. Show Closes in the front. Stays comfortable all day.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        }
+      ]
+    },
+    {
+      "product_handle": "bondesse-everyday-softcup",
+      "product_name": "The Everyday Soft Cup",
+      "competitor": "mixicharm.com",
+      "competitor_page": "https://mixicharm.com/sonashape",
+      "real_carousel_count": 40,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "references": [
+        {
+          "position": 1,
+          "type": "Competitor carousel image 1 of 8",
+          "description": "Competitor carousel image 1 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/62r28x4r37mo4s6fttxj7r1uh.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 1 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 2,
+          "type": "Competitor carousel image 2 of 8",
+          "description": "Competitor carousel image 2 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/7e0u3jfpo5copxk2exdwi4q18.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 2 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 3,
+          "type": "Competitor carousel image 3 of 8",
+          "description": "Competitor carousel image 3 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4p3aeypek37cihnedhg7odnj.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 3 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 4,
+          "type": "Competitor carousel image 4 of 8",
+          "description": "Competitor carousel image 4 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/48d779ownsg750rducilgir3g.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 4 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 5,
+          "type": "Competitor carousel image 5 of 8",
+          "description": "Competitor carousel image 5 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3jxakrhw0uejnb6bt0o5gxvqw.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 5 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 6,
+          "type": "Competitor carousel image 6 of 8",
+          "description": "Competitor carousel image 6 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3c19na262eyq2nendx3dv8an4.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 6 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 7,
+          "type": "Competitor carousel image 7 of 8",
+          "description": "Competitor carousel image 7 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4u1vebp0qj5bgx0xth1yeyqyt.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 7 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 8,
+          "type": "Competitor carousel image 8 of 8",
+          "description": "Competitor carousel image 8 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-everyday-softcup/carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/126a6ln71lyv7ijzxflfgd4io.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 8 of 8 in the The Everyday Soft Cup carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Everyday Soft Cup Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Everyday Soft Cup silhouette, materials, hardware, seams, colors and proportions shown in the separate The Everyday Soft Cup Product Master photographs. Show The one you reach for every morning.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        }
+      ]
+    },
+    {
+      "product_handle": "bondesse-3-pack",
+      "product_name": "The Easy Front Bra, 3 Pack",
+      "competitor": "foxyseniors.com",
+      "competitor_page": "https://foxyseniors.com/comfylara",
+      "real_carousel_count": 26,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "references": [
+        {
+          "position": 1,
+          "type": "Competitor carousel image 1 of 8",
+          "description": "Competitor carousel image 1 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/e7x1kews5n9o0id2701rvk3h.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 1 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 2,
+          "type": "Competitor carousel image 2 of 8",
+          "description": "Competitor carousel image 2 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/6ctgb1oo3u4isw2j7h1qb0yl1.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 2 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 3,
+          "type": "Competitor carousel image 3 of 8",
+          "description": "Competitor carousel image 3 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/3t3v0rmk4uzttk5gpk2xpei8y.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 3 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 4,
+          "type": "Competitor carousel image 4 of 8",
+          "description": "Competitor carousel image 4 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/1smokpkjph7ti1d4wmlnk2ix2.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 4 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 5,
+          "type": "Competitor carousel image 5 of 8",
+          "description": "Competitor carousel image 5 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/7ek51byo7jjo19hu8ouukm7x6.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 5 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 6,
+          "type": "Competitor carousel image 6 of 8",
+          "description": "Competitor carousel image 6 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/sluyvzcczqrk7ogd2hua674b.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 6 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 7,
+          "type": "Competitor carousel image 7 of 8",
+          "description": "Competitor carousel image 7 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/5dj98kjjdad7948qvzwhmtti4.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 7 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 8,
+          "type": "Competitor carousel image 8 of 8",
+          "description": "Competitor carousel image 8 of 8, from the foxyseniors.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-3-pack/carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/2t6ymi5842jw02mocnylm0h4/i/7dw8bamlx1k27fj6kymjkcgl2.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 8 of 8 in the The Easy Front Bra, 3 Pack carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached The Easy Front Bra, 3 Pack Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from foxyseniors.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact The Easy Front Bra, 3 Pack silhouette, materials, hardware, seams, colors and proportions shown in the separate The Easy Front Bra, 3 Pack Product Master photographs. Show One for the wash, one for the drawer, one on you.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        }
+      ]
+    },
+    {
+      "product_handle": "bondesse-bra-extenders",
+      "product_name": "Comfort Band Extenders (set of 3)",
+      "competitor": "mixicharm.com",
+      "competitor_page": "https://mixicharm.com/sonashape",
+      "real_carousel_count": 40,
+      "downloaded_carousel_count": 8,
+      "amostrado": true,
+      "references": [
+        {
+          "position": 1,
+          "type": "Competitor carousel image 1 of 8",
+          "description": "Competitor carousel image 1 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-01.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/62r28x4r37mo4s6fttxj7r1uh.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 1 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 1 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 1 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 2,
+          "type": "Competitor carousel image 2 of 8",
+          "description": "Competitor carousel image 2 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-02.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/7e0u3jfpo5copxk2exdwi4q18.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 2 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 2 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 2 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 3,
+          "type": "Competitor carousel image 3 of 8",
+          "description": "Competitor carousel image 3 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-03.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4p3aeypek37cihnedhg7odnj.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 3 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 3 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 3 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 4,
+          "type": "Competitor carousel image 4 of 8",
+          "description": "Competitor carousel image 4 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-04.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/48d779ownsg750rducilgir3g.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 4 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 4 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 4 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 5,
+          "type": "Competitor carousel image 5 of 8",
+          "description": "Competitor carousel image 5 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-05.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3jxakrhw0uejnb6bt0o5gxvqw.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 5 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 5 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 5 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 6,
+          "type": "Competitor carousel image 6 of 8",
+          "description": "Competitor carousel image 6 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-06.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/3c19na262eyq2nendx3dv8an4.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 6 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 6 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 6 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 7,
+          "type": "Competitor carousel image 7 of 8",
+          "description": "Competitor carousel image 7 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-07.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/4u1vebp0qj5bgx0xth1yeyqyt.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 7 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 7 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 7 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        },
+        {
+          "position": 8,
+          "type": "Competitor carousel image 8 of 8",
+          "description": "Competitor carousel image 8 of 8, from the mixicharm.com PDP.",
+          "reference_file": "Referencia de imagens - cena e prompt/bondesse-bra-extenders/carrossel-concorrente/referencia-08.webp",
+          "source_image_url": "https://cdn.selless.us/p/5a971uxjh8r2blladh7dydt4v/i/126a6ln71lyv7ijzxflfgd4io.webp",
+          "prompt": "Create one premium e-commerce PDP image for Bondesse. This is image 8 of 8 in the Comfort Band Extenders (set of 3) carousel (scene: \"Competitor carousel image 8 of 8\").\n\nREFERENCE HIERARCHY\n1. Use the attached competitor scene reference only for composition, camera position, crop, visual rhythm, lighting logic, body pose and product-to-frame ratio.\n2. Use the separately attached Comfort Band Extenders (set of 3) Product Master photographs as the sole authority for the product itself.\n3. If the two references conflict, the Product Master always wins for every physical product detail.\n\nART DIRECTION\nReproduce the composition, camera framing, crop, lighting direction and mood of the attached competitor reference image (scene: \"Competitor carousel image 8 of 8\", from mixicharm.com). Build a premium, confident visual language for Bondesse. The image should feel refined and intentional, never juvenile, overly technical or generic-dropship. Use the Bondesse palette naturally: #8C6A4F as the primary brand color, #FBF8F4 as a clean neutral background, #5E7B5A as a controlled accent (CTAs, highlights), #C9A227 only as a small pop of color (never dominating the frame).\n\nPRODUCT FIDELITY\nPreserve the exact Comfort Band Extenders (set of 3) silhouette, materials, hardware, seams, colors and proportions shown in the separate Comfort Band Extenders (set of 3) Product Master photographs. Show A little more room, when you need it.. Do not add, remove, enlarge or redesign any functional element. Do not invent pockets, closures, certifications, labels, textures, seams or accessories beyond what the Product Master shows. Maintain plausible scale, gravity, tension, material behavior and contact shadows.\n\nBRAND AND LEGAL CLEANUP\nRemove all competitor logos, trademarks, distinctive competitor prints, patches, watermarks and readable brand text from the reference. Do not imitate proprietary artwork, mascots or packaging design. Apply only the approved Bondesse identity when a brand mark is genuinely visible and physically plausible. Do not place promotional copy, prices, reviews or unverified technical claims inside the image.\n\nQUALITY CONTROL\nPhotorealistic commercial photography, natural anatomy, correct fingers/hands when present, realistic material response, accurate reflections, clean color separation, high micro-detail at the focal plane, restrained sharpening, no CGI gloss, no surreal elements and no visual clutter. Deliver a single finished image at 2048 x 2048 px (or 1600 x 2000 px for on-body lifestyle scenes), sRGB, with safe crop margins for mobile and desktop."
+        }
+      ]
+    }
+  ],
+  "identidade_visual": {
+    "logos": [
+      {
+        "tipo": "wordmark",
+        "descricao": "Logo principal do topo do site. Gere duas variantes: uma para fundo claro e uma para fundo escuro.",
+        "prompt": "Create the primary wordmark logo for Bondesse, a direct-to-consumer brand selling wire-free, front-closing intimates for women over 50.\n\nREFERENCE HIERARCHY\n1. There is no competitor reference for this asset, and none should be used: the wordmark must be original.\n2. The brand palette and typography below are the sole authority.\n3. If any instruction conflicts, legibility for a 50+ audience wins.\n\nART DIRECTION\nA typographic wordmark reading \"Bondesse\", set in an elegant thin-stroke serif with generous letter spacing, all caps or title case. No icon, no ornament, no flourish, no tagline. The mark should feel like a considered apparel brand, not a medical supplier and not a fast-fashion store. Typography follows the brand system: Cormorant Garamond (an elegant serif, thin stroke, generous letter spacing) for display, Inter (a neutral sans) for interface. Legibility is a requirement, not a style choice: the audience is 50+. The brand voice is calm, warm and respectful toward women aged 50 to 75. Never juvenile, never clinical, never discount-shouting. This is a brand that earns trust from a customer who has been disappointed by bras before, so the visual language must read as considered and honest, never as a flash sale. Use the Bondesse palette exactly as defined in the action plan, never a new one: #8C6A4F as the primary brand color (warm brown), #FBF8F4 as the clean neutral background (warm off-white), #F2EBE2 as the secondary surface, #2E2A26 as the text color, #5E7B5A as a controlled accent, and #C9A227 only as a small restrained pop (never dominating the frame).\n\nPRODUCT FIDELITY\nN/A, this asset contains no physical product. BRAND FIDELITY instead: the wordmark must use the primary brand color #8C6A4F on the light-background variant, and the off-white #FBF8F4 on the dark-background variant. Do not introduce a gradient, a second typeface or a color outside the palette.\n\nBRAND AND LEGAL CLEANUP\nDo not imitate any competitor logo, wordmark, mascot or packaging design, and do not reuse any distinctive artwork seen in competitor research. Do not place promotional copy, prices, review counts or unverified claims inside the asset. The only brand name in the image is Bondesse.\n\nQUALITY CONTROL\nClean vector-grade edges, no CGI gloss, no drop shadows unless physically plausible, no surreal elements, no visual clutter, no lorem text. Accurate color values as specified. Deliver in sRGB with safe margins on every side.\nDeliver two files at 2400 x 800 px on a transparent background: one for light backgrounds, one for dark."
+      },
+      {
+        "tipo": "icone_perfil",
+        "descricao": "Ícone e favicon. Precisa ser legível a 32x32 px e também serve como foto de perfil de rede social.",
+        "prompt": "Create the brand icon for Bondesse, used as favicon and as the social media profile picture.\n\nREFERENCE HIERARCHY\n1. No competitor reference: this mark must be original.\n2. The wordmark generated for Bondesse is the visual anchor; the icon is its compressed form.\n3. Legibility at 32 x 32 px overrides every aesthetic consideration.\n\nART DIRECTION\nA single letterform \"B\" in the same thin-stroke serif as the wordmark, or a minimal abstract mark derived from it, centered in a solid field. Bold, simple shapes only: anything thinner than 8% of the canvas width disappears at favicon size. No photographic elements, no gradients, no small text, no outline strokes. Use the Bondesse palette exactly as defined in the action plan, never a new one: #8C6A4F as the primary brand color (warm brown), #FBF8F4 as the clean neutral background (warm off-white), #F2EBE2 as the secondary surface, #2E2A26 as the text color, #5E7B5A as a controlled accent, and #C9A227 only as a small restrained pop (never dominating the frame). The brand voice is calm, warm and respectful toward women aged 50 to 75. Never juvenile, never clinical, never discount-shouting. This is a brand that earns trust from a customer who has been disappointed by bras before, so the visual language must read as considered and honest, never as a flash sale.\n\nPRODUCT FIDELITY\nN/A, no physical product in this asset. BRAND FIDELITY: the mark sits in #FBF8F4 on a #8C6A4F field, or the inverse. No third color.\n\nBRAND AND LEGAL CLEANUP\nDo not imitate any competitor logo, wordmark, mascot or packaging design, and do not reuse any distinctive artwork seen in competitor research. Do not place promotional copy, prices, review counts or unverified claims inside the asset. The only brand name in the image is Bondesse.\n\nQUALITY CONTROL\nClean vector-grade edges, no CGI gloss, no drop shadows unless physically plausible, no surreal elements, no visual clutter, no lorem text. Accurate color values as specified. Deliver in sRGB with safe margins on every side.\nDeliver a 1:1 square at 1024 x 1024 px. Verify legibility by previewing at 32 x 32 px before accepting."
+      },
+      {
+        "tipo": "capa_loja",
+        "descricao": "Banner do topo da home (hero). O texto da página entra por cima, então a composição precisa deixar espaço livre.",
+        "prompt": "Create the homepage hero banner for Bondesse, an online store selling wire-free, front-closing bras for women over 50.\n\nREFERENCE HIERARCHY\n1. Use the attached competitor carousel reference (from the research folder) only for lighting logic, crop and body pose.\n2. The Bondesse palette and tone below are the authority for color and mood.\n3. Where they conflict, the brand palette wins.\n\nART DIRECTION\nA real woman aged 55 to 68, photographed in natural daylight in a domestic interior, relaxed and at ease, dressed (a soft knit or open shirt), never a clinical or studio-white setting. She is the subject, not a body part. Crucially: the casting must actually be 50+, not a younger model styled to look older, because that is the single strongest visual differentiator measured in this niche. Composition leaves the left third visually quiet for headline text overlay. Use the Bondesse palette exactly as defined in the action plan, never a new one: #8C6A4F as the primary brand color (warm brown), #FBF8F4 as the clean neutral background (warm off-white), #F2EBE2 as the secondary surface, #2E2A26 as the text color, #5E7B5A as a controlled accent, and #C9A227 only as a small restrained pop (never dominating the frame). The brand voice is calm, warm and respectful toward women aged 50 to 75. Never juvenile, never clinical, never discount-shouting. This is a brand that earns trust from a customer who has been disappointed by bras before, so the visual language must read as considered and honest, never as a flash sale.\n\nPRODUCT FIDELITY\nWhen the product is visible, preserve the exact silhouette, seams, strap width and front closure shown in the Bondesse Product Master photographs. Do not invent hardware, underwire, lace or decorative elements the product does not have.\n\nBRAND AND LEGAL CLEANUP\nDo not imitate any competitor logo, wordmark, mascot or packaging design, and do not reuse any distinctive artwork seen in competitor research. Do not place promotional copy, prices, review counts or unverified claims inside the asset. The only brand name in the image is Bondesse.\n\nQUALITY CONTROL\nClean vector-grade edges, no CGI gloss, no drop shadows unless physically plausible, no surreal elements, no visual clutter, no lorem text. Accurate color values as specified. Deliver in sRGB with safe margins on every side.\nPhotorealistic commercial photography, natural skin texture preserved (no heavy retouching, no smoothing of natural lines: over-retouching contradicts the brand promise), correct anatomy and hands. Deliver at 1920 x 600 px, sRGB, with the safe text zone on the left third kept free of busy detail."
+      },
+      {
+        "tipo": "capa_social",
+        "descricao": "Capa de Facebook e Instagram. O avatar circular cobre parte da área inferior esquerda.",
+        "prompt": "Create the social media cover image for Bondesse (Facebook and Instagram brand pages).\n\nREFERENCE HIERARCHY\n1. The homepage hero generated for Bondesse is the visual anchor: this cover is a companion, not a duplicate.\n2. The Bondesse palette and tone are the authority.\n3. Platform safe areas override composition preferences.\n\nART DIRECTION\nA calm, wide composition: either a detail shot of the product's front closure and wide strap on a #F2EBE2 surface, or a softly lit domestic scene with generous negative space. No model face here (the hero already carries that), so the two assets do not compete. No text baked into the image, because the platform renders the brand name separately. Use the Bondesse palette exactly as defined in the action plan, never a new one: #8C6A4F as the primary brand color (warm brown), #FBF8F4 as the clean neutral background (warm off-white), #F2EBE2 as the secondary surface, #2E2A26 as the text color, #5E7B5A as a controlled accent, and #C9A227 only as a small restrained pop (never dominating the frame). The brand voice is calm, warm and respectful toward women aged 50 to 75. Never juvenile, never clinical, never discount-shouting. This is a brand that earns trust from a customer who has been disappointed by bras before, so the visual language must read as considered and honest, never as a flash sale.\n\nPRODUCT FIDELITY\nIf the product appears, preserve the exact Bondesse silhouette, fabric behavior, seam placement, strap width and front closure from the Product Master photographs. No invented details.\n\nBRAND AND LEGAL CLEANUP\nDo not imitate any competitor logo, wordmark, mascot or packaging design, and do not reuse any distinctive artwork seen in competitor research. Do not place promotional copy, prices, review counts or unverified claims inside the asset. The only brand name in the image is Bondesse.\n\nQUALITY CONTROL\nClean vector-grade edges, no CGI gloss, no drop shadows unless physically plausible, no surreal elements, no visual clutter, no lorem text. Accurate color values as specified. Deliver in sRGB with safe margins on every side.\nPhotorealistic, restrained, high micro-detail at the focal plane. Deliver at 1640 x 624 px, sRGB. Keep the lower-left circular area (approximately 180 x 180 px, inset 24 px) free of critical detail: the profile avatar overlaps it on desktop and mobile."
+      }
+    ]
+  }
+}
